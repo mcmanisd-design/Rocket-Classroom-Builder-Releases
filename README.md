@@ -39,11 +39,11 @@ You must have:
 - Permission to perform the required Classroom operations.
 - Existing Google accounts for teachers and students being rostered.
 
-### GAM
+### GAM 7
 
 Rocket Classroom Builder requires an existing, configured GAM installation.
 
-GAM must already be:
+GAM 7 must already be:
 
 - Installed.
 - Authorized.
