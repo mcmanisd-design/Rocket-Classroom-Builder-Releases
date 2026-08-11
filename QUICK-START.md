@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-## 1. Install and Configure GAM
+## 1. Install and Configure GAM 7
 
 Rocket Classroom Builder requires a working GAM 7 installation.
 
