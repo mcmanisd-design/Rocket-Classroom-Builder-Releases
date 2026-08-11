@@ -1,8 +1,3 @@
-# Rocket-Classroom-Builder-Releases
-Free Google Classroom rostering utility for school IT staff. Download Rocket Classroom Builder releases, documentation, and release notes.
-
-# Rocket Classroom Builder
-
 **Version 1.0.0**
 
 Rocket Classroom Builder is a free desktop utility for creating and safely updating Google Classroom courses from CSV roster data.
