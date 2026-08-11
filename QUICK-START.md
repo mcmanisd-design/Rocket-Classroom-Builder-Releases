@@ -4,9 +4,9 @@
 
 ## 1. Install and Configure GAM
 
-Rocket Classroom Builder requires a working GAM installation.
+Rocket Classroom Builder requires a working GAM 7 installation.
 
-GAM must already be installed, authorized, and configured for your Google Workspace environment. Rocket does not install or configure GAM.
+GAM 7 must already be installed, authorized, and configured for your Google Workspace environment. Rocket does not install or configure GAM.
 
 ## 2. Open Rocket Classroom Builder
 
