@@ -1,4 +1,4 @@
-**Version 1.0.0**
+**Version 1.0.1**
 
 Rocket Classroom Builder is a free desktop utility for creating and safely updating Google Classroom courses from CSV roster data.
 
